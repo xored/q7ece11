@@ -1,2 +1,10 @@
-Please proceed to [[http://github.com/xored/q7ece11/wiki][Wiki home]]
+To follow step-by-step guide please proceed to [[http://github.com/xored/q7ece11/wiki][Wiki home]].
 
+To quickly jump to specific chapter use one of these links:
+
+- [[http://github.com/xored/q7ece11/wiki/First-Test.org][Test 1]]. Create project
+- [[http://github.com/xored/q7ece11/wiki/Second-Test.org][Test 2]]. Create file. 
+- [[http://github.com/xored/q7ece11/wiki/Third-Test.org][Test 3]]. More complex editing
+- [[http://github.com/xored/q7ece11/wiki/Fourth-Test.org][Test 4]]. Dealing with external files
+- [[http://github.com/xored/q7ece11/wiki/Fifth-Test.org][Test 5]]. Making diagram tests
+- [[http://github.com/xored/q7ece11/wiki/Q7-runner.org][Using Q7 Runner]]. Headless execution of Q7 tests 
