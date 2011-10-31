@@ -5,9 +5,24 @@ Element-Name: Create Entity
 External-Reference: 
 Element-Version: 3.0
 Contexts: _MH1DkAOdEeGii-my2Y7ekQ,_YPgnEAOdEeGii-my2Y7ekQ
-Save-Time: 10/31/11 3:50 PM
+Save-Time: 10/31/11 4:41 PM
 Id: _F4hTkAObEeGii-my2Y7ekQ
 
+------=_.description-216f885c-d591-38ce-8ea2-e4f8cb4d6ffa
+Entry-Name: .description
+Content-Type: text/plain
+
+Test entity creation. 
+1. Create new entity (right-click sampleProject -> New -> Entity)
+2. Set "Name" to "Foo" and click "Finish"
+3. In Entry Editor set Description to "My entity"
+4. In Attributes section click "Add"
+5. Set attribute name to bar
+6. Save editor
+7. Expand Foo in Tigerstripe explorer
+8. Switch to assertion mode and assert 'caption' property of 'bar:String' element
+
+------=_.description-216f885c-d591-38ce-8ea2-e4f8cb4d6ffa--
 ------=_.q7.content-3d2e0690-ce48-3609-83e0-c704d49f1eaf
 Content-Type: q7/binary
 Entry-Name: .q7.content
