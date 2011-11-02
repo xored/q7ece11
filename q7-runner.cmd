@@ -7,7 +7,7 @@ set q7location=%TUTORIAL_HOME%\q7
 set q7project=%gitRepoDir%\q7tests
 set q7licenseFile=%gitRepoDir%\q7-runner-license.l9
 
-# Clear results directory
+rem Clear results directory
 rd /s /q %resultsDir%
 md %resultsDir%
 
